@@ -53,12 +53,12 @@
 # ----------------------- #
 
 locale: zh_CN
-url: http://hbaojun.eu.org
-title: 大宝自习室
+url: circle0519.github.io
+title: 媛媛自习室
 subtitle: 道路就在脚下
-author: hbaojun
+author: circle0519
 simple_search: http://google.com/search
-description: "大宝的博客, 个人博客"
+description: "媛媛的博客, 个人博客"
 keywords: "计算机, 互联网, 生活, 技术"
 
 # 默认的日期格式是 "ordinal"(相当于 java 日期格式的 "MMM d yyyy"，输出 "四月 15 2013")
@@ -69,7 +69,7 @@ date_format: "yyyy年MM月dd日"
 subscribe_rss: /atom.xml
 subscribe_email:
 # RSS feeds can list your email address if you like
-email: hbaojun@outlook.com
+email: circle0519@outlook.com
 
 # 如果发布到子目录如 ‘http://site.com/project’ 则设置 'root: /project'
 root: /
@@ -178,7 +178,7 @@ disqus_short_name:
 disqus_show_comment_count: false
 
 # Duoshuo Comments
-duoshuo_short_name: hbaojun
+duoshuo_short_name: circle0519
 duoshuo_show_comment_count: true
 duoshuo_asides: true
 
@@ -201,7 +201,7 @@ facebook_like: false
 # baidushare
 baidushare: true
 
-CDN_URL: //marklma.qiniudn.com
+CDN_URL: 
 
 # ----------------------- #
 #   Deployment Settings   #
